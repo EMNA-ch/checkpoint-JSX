@@ -1,0 +1,23 @@
+.item {
+  height: 40px;
+  width: fit-content;
+}
+.triplebutton {
+  display: flex;
+  height: 50px;
+  width: 200px;
+  color: rgb(34, 34, 34);
+  margin-left: 40px;
+}
+.tripleicons {
+  height: 50px;
+  width: 50px;
+  margin: 10px;
+}
+
+.searchbar {
+  display: flex;
+  width: 500px;
+  margin-right: 170px;
+  margin-left: 200px;
+}
